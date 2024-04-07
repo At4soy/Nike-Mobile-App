@@ -6,9 +6,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://r.resimlink.com/pcYlC.png" alt="project-screenshot" width="300" height="750/" style="display: inline-block;">
+<img src="https://r.resimlink.com/pcYlC.png" alt="project-screenshot" width="300" height="600/" style="display: inline-block;">
 
-<img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="300" height="750/" style="display: inline-block;">
+<img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="300" height="600/" style="display: inline-block;">
   
 <h2>🧐 Features</h2>
 
