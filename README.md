@@ -1,16 +1,14 @@
 <h1 align="center" id="title">Nike Mobile App</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
-<p id="description">A Nike mobile app with custom designs made with Flutter Dart custom fonts and 7 pages. Smoot transition effects harmonious colour designs and many more features.</p>
+<p align="center"><p id="description">A Nike mobile app with custom designs made with Flutter Dart custom fonts and 7 pages. Smoot transition effects harmonious colour designs and many more features.</p></p>
 
 <p align="center"><img src="https://img.shields.io/twitter/follow/:at4soyy" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://r.resimlink.com/pcYlC.png" alt="project-screenshot" width="300" height="400/">
+<img src="https://r.resimlink.com/pcYlC.png" alt="project-screenshot" width="300" height="700/">
 
-<img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="296" height="400/">
+<img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="300" height="700/">
 
   
   
