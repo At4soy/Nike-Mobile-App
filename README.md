@@ -6,12 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<div style="float: left;">
-  <img src="https://r.resimlink.com/Mizgp0Y.png" alt="project-screenshot" width="300" height="550">
-</div>
-<div style="float: left;">
-  <img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="300" height="550">
-</div>
+|<img src="https://r.resimlink.com/Mizgp0Y.png" alt="project-screenshot" width="300" height="550">|<img src="https://r.resimlink.com/y98qjCl3Mhs.png" alt="project-screenshot" width="300" height="550">|
   
 <h2>🧐 Features</h2>
 
