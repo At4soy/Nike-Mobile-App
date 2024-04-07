@@ -7,7 +7,7 @@
 
 <p align="center" <p id="description">A Nike mobile app with custom designs made with Flutter Dart custom fonts and 7 pages. Smoot transition effects harmonious colour designs and many more features.</p>
 
-<p align="center"><img src="https://img.shields.io/twitter/follow/:at4soyy" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fat4soyy" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
